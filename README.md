@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello There! 👋🏻
 
-<!--
-**MarceloPasquiniB/MarceloPasquiniB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marcelo Pasquini! 
+I am Italian 🇮🇹, married with a German 🇩🇪, raised in Brazil 🇧🇷, former Canadian resident 🇨🇦 
+and I’m moving to Portugal in a few months 🇵🇹 .
 
-Here are some ideas to get you started:
+💻 I am a Front-End Developer and Data Analyst, with experience in many kinds of projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’m currently finishing my MBA, doing my final project in applied quantitative methods for portfolio risk analysis.
+
+🏆 PMI’s CAPM®, Google and IBM Data Analytics are some certificates that I have.
+
+👇🏻 For my Full profile or to contact me. Reach me out!
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mpbrazil)
