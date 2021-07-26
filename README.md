@@ -15,6 +15,6 @@ and I’m moving to Portugal in a few months 🇵🇹 .
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 👇🏻  For my Full profile or to contact me. Reach me out!
+### 👇🏻  For my Full profile or to contact me: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpbrazil)
