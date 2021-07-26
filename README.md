@@ -11,4 +11,4 @@ and I’m moving to Portugal in a few months 🇵🇹 .
 🏆 PMI’s CAPM®, Google and IBM Data Analytics are some certificates that I have.
 
 👇🏻 For my Full profile or to contact me. Reach me out!
-	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/mpbrazil)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpbrazil)
