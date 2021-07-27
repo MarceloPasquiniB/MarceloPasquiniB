@@ -1,6 +1,7 @@
-### Hello There! 👋🏻
+## Hello There! 👋🏻
 
-My name is Marcelo Pasquini! 
+### My name is Marcelo Pasquini! 
+
 I am Italian 🇮🇹, married with a German 🇩🇪, raised in Brazil 🇧🇷, former Canadian resident 🇨🇦 
 and I’m moving to Portugal in a few months 🇵🇹 .
 
