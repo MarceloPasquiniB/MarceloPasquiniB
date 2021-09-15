@@ -6,7 +6,7 @@ I am Italian 🇮🇹, married with a German 🇩🇪, raised in Brazil 🇧🇷
 
 💻  I am a Front-End Developer with knowledge and skills in Project Management and Data Analytics.
 
-📚  I’m currently finishing my MBA, doing my final project in applied quantitative methods for portfolio risk analysis.
+📚  I'm doing my second BSc, now in Software Engineering, while I finish my MBA's final project in applied quantitative methods for portfolio risk analysis.
 
 🏆  PMI’s CAPM®, Google and IBM Data Analytics are some certificates that I have.
 
