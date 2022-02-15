@@ -2,7 +2,7 @@
 
 ### My name is Marcelo Pasquini! 
 
-I am Italian 🇮🇹, married with a German 🇩🇪, raised in Brazil 🇧🇷 and former Canadian resident 🇨🇦.
+I am Italian 🇮🇹, married with a German 🇩🇪, raised in Brazil 🇧🇷, former Canadian resident 🇨🇦 and living in Portugal 🇵🇹.
 
 💻  I am a Front-End Developer with knowledge and skills in Project Management and Data Analytics.
 
